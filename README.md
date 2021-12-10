@@ -71,7 +71,7 @@ The Linear Regression model is able to explain approximately 87% of the variatio
 ## References
 1. [Population of Ames Iowa](https://datausa.io/profile/geo/ames-ia/)
 2. [Machine Learning in Real Estate](https://unionstreetmedia.com/the-rise-of-machine-learning-in-real-estate/#:~:text=Personalized%20Marketing%20Automation%20%E2%80%93%20machine%20learning,neighborhood%20and%20property%20is%20best)
-3. [Ames Housing Data - Original Article](#http://jse.amstat.org/v19n3/decock.pdf)
+3. [Ames Housing Data - Original Article](http://jse.amstat.org/v19n3/decock.pdf)
 4. [How To Interpret R-squared in Regression Analysis](https://statisticsbyjim.com/regression/interpret-r-squared-regression/)
 
 
